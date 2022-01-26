@@ -1,2 +1,3 @@
 # Snake-Game!
-(https://user-images.githubusercontent.com/77198464/151265269-b1961b83-2fe2-4408-81fd-75805c72b9c5.png)
+-
+![cta_alt](https://user-images.githubusercontent.com/77198464/151265379-afc14449-21e1-485c-a5b3-3f3fbbfe4c9f.png)
